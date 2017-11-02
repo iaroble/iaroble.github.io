@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Ejemplo post 2
 
