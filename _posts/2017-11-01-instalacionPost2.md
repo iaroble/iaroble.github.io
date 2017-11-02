@@ -1,9 +1,8 @@
 ---
 published: true
+title: 'Ejemplo post 2: Instalación'
 ---
----
-title: 'Ejemplo post 2'
----
+
 ## Ejemplo post 2
 
 If you are fond of git and you already installed GAP, then you could clone our repository as usual (here we assume that GAP-DIR is your GAP installation directory):
